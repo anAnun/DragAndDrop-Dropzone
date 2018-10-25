@@ -1,0 +1,33 @@
+.ul {
+  margin-top: -10px;
+}
+
+.bold {
+  font-weight: 700;
+}
+
+.marg {
+  margin-left: 30px;
+}
+
+
+.rect1 {
+  width: 700px;
+  height: 350px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: left;
+  outline-color: black;
+  outline-style: solid;
+}
+
+.rect2 {
+  width: 650px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  padding-top: 30px;
+  background-color: yellow;
+  outline-style: dashed;
+  height: 100px;
+}
